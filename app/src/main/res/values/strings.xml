@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Jet Movie</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Cart</string>
+    <string name="cart_empty">Cart is empty!\nAdd some movie to chart</string>
+    <string name="menu_about">About</string>
+    <string name="price">IDR %d</string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="add_to_cart">Add to cart : IDR %d</string>
+    <string name="total_order">Total : IDR %d</string>
+    <string name="back">Back</string>
+    <string name="share_message">Hey, I have bought %1$d Movie from Jet Movie App with total IDR %2$d. Do you want too?</string>
+    <string name="placeholder_search">Search movies!</string>
+    <string name="full_name">Ilham Widhi Nugroho</string>
+    <string name="email">ilhamwidi34@gmail.com</string>
+</resources>
